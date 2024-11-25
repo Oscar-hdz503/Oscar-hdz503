@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there. My name is Oscar Hernández  👋
+<p>Un estudiante que busca mejorar sus conocimientos en informática 😃:<p>
 <!--
 **Oscar-hdz503/Oscar-hdz503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
